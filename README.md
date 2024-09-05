@@ -1,5 +1,5 @@
 # Pond-Cleaning-Robot
- Automated robotic pond cleaner detects and collects waste using sensors and Bluetooth control.
+ This project involves the development of a real-time Bluetooth-controlled robotic pond cleaner that autonomously detects and collects waste using various sensors.
 # Project overview
 This project aims to develop an automated system for cleaning ponds using a robotic device controlled via Bluetooth. The system integrates various sensors such as the MQ2 gas (smell) sensor and a PIR motion sensor to detect waste in the pond. The cleaner uses motors for movement and a robotic arm to collect waste automatically or manually, based on user input via a Bluetooth-connected mobile device. This project showcases the potential for automating environmental cleaning tasks using low-cost, open-source microcontrollers like the Raspberry Pi Pico.
 # Key skills 
